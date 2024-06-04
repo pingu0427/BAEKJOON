@@ -15,5 +15,3 @@ for i in range(n):
             print(tmp)
     else:
         heapq.heappush(heap, x)
-
-print(heap)
